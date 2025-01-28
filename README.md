@@ -46,7 +46,7 @@ Check out the [Foundry Book](https://book.getfoundry.sh/getting-started/installa
 
 ### Node
 
-This repository targets v20 of node. We recommend using [nvm](https://github.com/nvm-sh/nvm) to manage your node version.
+This repository targets v20 of the node. We recommend using [nvm](https://github.com/nvm-sh/nvm) to manage your node version.
 
 To install nvm
 
@@ -98,7 +98,7 @@ See [`rust/README.md`](rust/README.md)
 ### Release Agents
 
 - Tag the commit with the current date in the format `agents-yyyy-mm-dd`; e.g. `agents-2023-03-28`.
-- [Create a Github Release](https://github.com/hyperlane-xyz/hyperlane-monorepo/releases/new) with a changelog against the previous version titled `Agents MMMM DD, YYYY`, e.g. `Agents March 28, 2023`.
+- [Create a GitHub Release](https://github.com/hyperlane-xyz/hyperlane-monorepo/releases/new) with a changelog against the previous version titled `Agents MMMM DD, YYYY`, e.g. `Agents March 28, 2023`.
 - Include the agent docker image tag in the description of the release
 - Create a summary of change highlights
 - Create a "breaking changes" section with any changes required
