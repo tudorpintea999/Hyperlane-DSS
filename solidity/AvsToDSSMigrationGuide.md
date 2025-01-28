@@ -29,7 +29,7 @@
 
 - #### Registration
 
-  - To register with the DSS the operator needs to call `registerOperatorToDSS(dss, registrationHookData)` in the `core` contract with the follwoing params.
+  - To register with the DSS the operator needs to call `registerOperatorToDSS(dss, registrationHookData)` in the `core` contract with the following params.
     - dss : address of `HyperlaneDSS`
     - registrationHookData: `abi.encode(<signingAddress>)` of the operator. HyperlaneDSS expects the signing Address of the operator i.e. the validator for an operator.
 
