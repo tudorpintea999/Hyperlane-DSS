@@ -1,11 +1,11 @@
 # Grafana Dashboards
 
-NOTE: the dashboards here are not synced to our internal grafana and will need to manually be
+NOTE: the dashboards here are not synced to our internal Grafana and will need to manually be
 updated when we want to update our published templates.
 
 ## Importing
 
-1. Create a new dashboard in grafana
+1. Create a new dashboard in Grafana
 2. Select the gear icon "dashboard settings"
 3. Select "JSON Model"
 4. Copy/paste from the "\*.json" file
