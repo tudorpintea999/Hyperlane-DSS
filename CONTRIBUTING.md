@@ -25,7 +25,7 @@ Help us to maximize the effort we can spend fixing issues and adding new feature
 
 ## <a name="submit-pr"></a> Pull Request Submission Guidelines
 
-Thank you for considering to help out with the source code! We welcome contributions
+Thank you for considering helping out with the source code! We welcome contributions
 from anyone on the internet, and are grateful for even the smallest of fixes!
 
 If you'd like to contribute to Hyperlane, please fork, fix, commit and send a pull request
